@@ -50,10 +50,10 @@ Habit Tracker/
 📸 Screenshots
 
 ### 1️⃣ Initial View
-![Initial Calendar Screenshot] (screenshots/initial-view.png)
+![Initial Calendar Screenshot](screenshots/initial-view.png)
 
 ### 2️⃣ With Progress
-![Calendar Progress Screenshot] (screenshots/with-progress.png)
+![Calendar Progress Screenshot](screenshots/with-progress.png)
 
 
 📌 Future Improvements
